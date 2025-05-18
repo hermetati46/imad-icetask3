@@ -2,6 +2,6 @@ Name: Hermenegildo Zuzi Tati Student number: ST10494935 Course: HMAW – Higher 
 
 My repository link - https://github.com/hermetati46/imad-icetask3
 
-![Screenshot_20250519_011354](https://github.com/user-attachments/assets/e24b954d-1ed0-497e-ae6b-3d918fca1976)
+![Captura de tela 2025-05-19 011437](https://github.com/user-attachments/assets/c618501e-11df-4667-a70e-a1f31e9adf09)
 
-![Screenshot_20250519_011417](https://github.com/user-attachments/assets/999818e6-3eab-465e-b105-05470ef1c75e)
+![Captura de tela 2025-05-19 011453](https://github.com/user-attachments/assets/72f30496-d11e-4015-81ee-7257fa045d2b)
